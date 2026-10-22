@@ -1,4 +1,4 @@
 # muskan-demo
 just a demo repo.
 <br>
-Author - Muskan
+Author - Muskan Kumari
